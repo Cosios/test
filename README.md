@@ -10,3 +10,6 @@ second commit:change the user name of my project
 change my name.
 
 test 
+
+
+test if i receive the nofiy email
